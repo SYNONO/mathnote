@@ -1,0 +1,22 @@
+# Obsidian 配置文件
+.obsidian/workspace*
+.obsidian/workspaces.json
+.obsidian/cache
+.obsidian/plugins/*/data.json
+
+# 临时文件
+.trash/
+.DS_Store
+Thumbs.db
+
+# 个人配置
+.obsidian/hotkeys.json
+.obsidian/appearance.json
+
+# 备份文件
+*.bak
+*~
+*.tmp
+
+# 附件缓存
+attachments/.thumbnails/
