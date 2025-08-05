@@ -2,6 +2,13 @@
 
 > 本文件记录笔记分支的所有关键信息，供项目进展中随时查阅
 
+## 🚨 重要：笔记实际存储位置
+**所有笔记必须创建在：`E:\MathExamVault\notebranch\mathnote\mathnote\`**
+- 这是Obsidian笔记库的根目录
+- 高等数学笔记：`E:\MathExamVault\notebranch\mathnote\mathnote\高等数学\`
+- 线性代数笔记：`E:\MathExamVault\notebranch\mathnote\mathnote\线性代数\`
+- 错题集：`E:\MathExamVault\notebranch\mathnote\mathnote\错题集\`
+
 ## 项目基本信息
 
 - **项目名称**：MathExamVault 数学考研笔记系统
