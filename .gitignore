@@ -20,3 +20,67 @@ Thumbs.db
 
 # 附件缓存
 attachments/.thumbnails/
+
+# ===== 新增：排除测试和开发文件 =====
+# Node.js
+node_modules/
+package.json
+package-lock.json
+
+# Python 测试文件
+test_*.py
+*_test.py
+*.pyc
+__pycache__/
+
+# JavaScript 测试文件
+test_*.js
+
+# PDF 提取实验
+pdf-reader-local/
+pdf-reader-mcp/
+pdf-tools-mcp/
+liyongle_extraction/
+pdf_extraction_output/
+math_content_extraction/
+formula_images/
+
+# Agent 配置和测试
+Agent*.md
+*agent*.py
+*Agent*.md
+.claude/
+.mcp.json
+setup_mcp.bat
+
+# 日志文件
+*.log
+
+# 临时输出文件
+*.txt
+*.png
+nul
+direct_ai_*.md
+enhanced_*.md
+*_result*.md
+*_converted.md
+pymupdf_*.md
+pymupdf_*.json
+pix2tex_*.md
+
+# PDF 文件（太大）
+*.pdf
+*_split/
+
+# 其他测试和临时文件
+apply_ai_recognition.py
+create_test_pdf.js
+derivative_content.md
+smart_pdf_converter.py
+use_pdf_reader_optimized.py
+PDF*.md
+公式提取*.md
+最终评估报告.md
+
+# 保留错题集文件夹
+!错题集/
