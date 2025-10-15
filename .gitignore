@@ -91,3 +91,9 @@ push*.ps1
 
 # 保留错题集文件夹
 !错题集/
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
